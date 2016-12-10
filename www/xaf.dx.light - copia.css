@@ -1,0 +1,43 @@
+﻿.dx-navigation-item {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.dx-device-mobile .dx-field:last-of-type {
+    margin: 0 0 10px 0;
+}
+
+.dx-lookup {
+    height: 50px;
+}
+
+.dx-toolbar-background {
+    background-color: rgba(220,220,220,1);
+}
+
+.xet-fieldset-sigle-column-label {
+    margin-left: 10px;
+}
+.toolbar-item {
+  display: flex;
+  justify-content: center;
+}
+.center-center {
+  align-self: center;
+}
+.toolbar-item:hover {
+  background-color: #FF502B; 
+}
+.toolbar-item.active {
+  color: inherit ;
+  background-color: #F3F3F3;
+}
+.main {
+    height: auto;
+}
+.sidebar {
+    position: absolute;
+}
+.xet-row-column{
+    display:inline-block;
+}
